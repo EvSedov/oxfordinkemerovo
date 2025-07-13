@@ -1,0 +1,3 @@
+{{ $basePath := (urls.Parse .Site.BaseURL).Path }}
+<a href="{{ path.Join $basePath (.Get 0) }}" download="{{ .Get 1 }}" class="text-blue-600 underline italic">
+    {{ .Inner }}</a>

@@ -3,12 +3,12 @@
 # main menu
 [[main]]
 name = "Главная"
-pageRef = "/"
+url = "/"
 weight = 1
 
 [[main]]
 name = "Сведения об образовательной организации"
-pageRef = "/education"
+url = "/education"
 weight = 2
 
 [[main]]
@@ -18,11 +18,11 @@ weight = 3
 [[main]]
 parent = "Страницы"
 name = "Программа обучения"
-pageRef = "/programma"
+url = "/programma"
 
 
 # footer menu
 [[footer]]
 name = "Политика конфиденциальности"
-pageRef = "/privacy-policy"
+url = "/privacy-policy"
 weight = 1
