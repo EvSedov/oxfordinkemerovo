@@ -12,13 +12,9 @@ url = "/education"
 weight = 2
 
 [[main]]
-name = "Страницы"
-weight = 3
-
-[[main]]
-parent = "Страницы"
 name = "Программа обучения"
 url = "/programma"
+weight = 3
 
 
 # footer menu
