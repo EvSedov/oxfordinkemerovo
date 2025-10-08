@@ -22,3 +22,13 @@ weight = 3
 name = "Политика конфиденциальности"
 url = "/privacy-policy"
 weight = 1
+
+[[footer]]
+name = "Министерство науки и высшего образования РФ"
+url = "https://www.minobrnauki.gov.ru"
+weight = 2
+
+[[footer]]
+name = "Министерство просвещения РФ"
+url = "https://edu.gov.ru"
+weight = 3
